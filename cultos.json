@@ -1,0 +1,20 @@
+{
+  "2026-02-01": {
+    "titulo": "Culto da Família",
+    "hora": "18h",
+    "tipo": "normal",
+    "ministrante": "Pr. João Silva"
+  },
+  "2026-02-08": {
+    "titulo": "Vigília",
+    "hora": "22h",
+    "tipo": "vigilia",
+    "ministrante": "Pr. Marcos Almeida"
+  },
+  "2026-02-15": {
+    "titulo": "Santa Ceia",
+    "hora": "18h",
+    "tipo": "especial",
+    "ministrante": "Pr. Presidente"
+  }
+}
