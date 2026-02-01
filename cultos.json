@@ -1,21 +1,29 @@
 {
-  "2026-02-02": {
-    "titulo": "Culto da Família",
+  "2026-02-01": {
+    "titulo": "Culto das Primícias",
     "hora": "18h",
-    "tipo": "normal",
-    "ministrante": "Pr. João Silva"
+    "tipo": "primicias",
+    "ministrante": "Pr. João Lourenço"
   },
   "2026-02-08": {
-    "titulo": "Vigília",
-    "hora": "22h",
-    "tipo": "vigilia",
-    "ministrante": "Pr. Marcos Almeida"
+    "titulo": "Culto de Missões",
+    "hora": "18h",
+    "tipo": "missoes",
+    "ministrante": "Equipe Missionária"
   },
   "2026-02-15": {
-    "titulo": "Santa Ceia",
+    "titulo": "Culto da Família",
     "hora": "18h",
-    "tipo": "especial",
-    "ministrante": "Pr. Presidente"
+    "tipo": "familia",
+    "ministrante": "Presb. Gilvan F. de Medeiros"
+  },
+  "2026-02-22": {
+    "titulo": "Culto de Gratidão",
+    "hora": "18h",
+    "tipo": "gratidao",
+    "ministrante": "A definir"
   }
 }
+
+
 
