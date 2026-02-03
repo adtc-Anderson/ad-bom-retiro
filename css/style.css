@@ -789,6 +789,15 @@ footer {
   color: #dc2626;
 }
 
+.mapa-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 320px;
+  color: #555;
+  text-align: center;
+}
+
 /* ===== AGENDA MENSAL – AJUSTE MOBILE ===== */
 @media (max-width: 480px) {
 
@@ -814,3 +823,4 @@ footer {
     min-height: 62px;       /* um pouco maior que o normal */
   }
 }
+
