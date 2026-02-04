@@ -1,0 +1,3784 @@
+{
+  "2026-01-01": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-01-02": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-01-03": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "UMADI na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Mulheres segundo o coração de Deus",
+      "observacao": "Culto das senhoras na igreja sede"
+    }
+  ],
+  "2026-01-04": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto das Primícias",
+      "hora": "18:00 às 20:00",
+      "tipo": "primicias",
+      "dirigente": "A definir",
+      "tema": "Honrando a Deus com as primícias",
+      "observacao": ""
+    }
+  ],
+  "2026-01-05": [
+    {
+      "dia_semana": "segunda-feira",
+      "titulo": "Santa Ceia na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Comunhão do Corpo de Cristo",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-01-06": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-01-08": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-01-09": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-01-11": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Missões",
+      "hora": "18:00 às 20:00",
+      "tipo": "missoes",
+      "dirigente": "A definir",
+      "tema": "Ide por todo o mundo",
+      "observacao": ""
+    }
+  ],
+  "2026-01-13": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-01-14": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "Santa Ceia do Senhor",
+      "hora": "19:00 às 21:00",
+      "tipo": "especial",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Fazei isto em memória de mim",
+      "observacao": "2ª quarta-feira do mês"
+    }
+  ],
+  "2026-01-15": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-01-16": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-01-18": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto da Família",
+      "hora": "18:00 às 20:00",
+      "tipo": "familia",
+      "dirigente": "A definir",
+      "tema": "Eu e minha casa serviremos ao Senhor",
+      "observacao": ""
+    }
+  ],
+  "2026-01-20": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-01-22": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-01-23": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-01-24": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "Dia da Humilhação",
+      "hora": "07:00 às 19:00",
+      "tipo": "humilhacao",
+      "dirigente": "Igreja em oração",
+      "tema": "Humilhai-vos perante o Senhor",
+      "observacao": "12h de oração – 4º sábado do mês"
+    }
+  ],
+  "2026-01-25": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Gratidão",
+      "hora": "18:00 às 20:00",
+      "tipo": "gratidao",
+      "dirigente": "A definir",
+      "tema": "Em tudo dai graças",
+      "observacao": ""
+    }
+  ],
+  "2026-01-27": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-01-29": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-01-30": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": "Bom dia! 🌟 A melhor maneira de começar o dia é entregando nossa vida a Deus. Vamos nos consagrar ao Senhor, buscar Sua face e renovar nossas forças? Venha fazer parte do nosso Culto de Consagração! Será um tempo precioso de oração e palavra. Te esperamos! 📖🙏"
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-02-01": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto das Primícias",
+      "hora": "18:00 às 20:00",
+      "tipo": "primicias",
+      "dirigente": "Irm. Adriano / Irm. Rose",
+      "tema": "Honra ao Senhor com as primícias",
+      "observacao": "Momento especial de consagração."
+    }
+  ],
+
+  "2026-02-02": [
+    {
+      "dia_semana": "segunda-feira",
+      "titulo": "Santa Ceia na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Comunhão do Corpo de Cristo",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+
+  "2026-02-03": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Clamando juntos ao Senhor",
+      "observacao": "Querida, não fique ansiosa, venha orar ao Senhor! Venha fortalecer a sua fé e compartilhar o milagre. Nosso encontro é um lugar de renovo e de ver o poder de Deus operando em nossas vidas e famílias. 🕊️✨"
+    }
+  ],
+
+  "2026-02-05": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Firmados na Palavra",
+      "observacao": ""
+    }
+  ],
+
+  "2026-02-06": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": "Bom dia! 🌟 A melhor maneira de começar o dia é entregando nossa vida a Deus. Vamos nos consagrar ao Senhor, buscar Sua face e renovar nossas forças? Venha fazer parte do nosso Culto de Consagração! Será um tempo precioso de oração e palavra. Te esperamos! 📖🙏"
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+
+  "2026-02-07": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "UMADI na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Mulheres segundo o coração de Deus",
+      "observacao": "Culto das senhoras na igreja sede"
+    }
+  ],
+
+  "2026-02-08": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Missões",
+      "hora": "18:00 às 20:00",
+      "tipo": "missoes",
+      "dirigente": "Irm. Valadares / Irm. Tatiana",
+      "tema": "Ide por todo o mundo",
+      "observacao": "Ênfase missionária"
+    }
+  ],
+
+  "2026-02-10": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Buscando a presença de Deus",
+      "observacao": "📖 'A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza.' (2 Coríntios 12:9).\nIrmã, se sente cansada? Venha recarregar suas forças na presença de Deus. Nosso Círculo de Oração é o lugar do descanso e da renovação. Jesus te espera! 🙏💖"
+    }
+  ],
+
+  "2026-02-11": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "Santa Ceia do Senhor",
+      "hora": "19:00 às 21:00",
+      "tipo": "especial",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Fazei isto em memória de mim",
+      "observacao": "2ª quarta-feira do mês"
+    }
+  ],
+
+  "2026-02-12": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Crescendo no conhecimento da verdade",
+      "observacao": ""
+    }
+  ],
+
+  "2026-02-13": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": "Consagrem-se, porém, e sejam santos, porque eu sou o Senhor, o Deus de vocês.(Levítico 20:7)"
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+
+  "2026-02-15": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto da Família",
+      "hora": "18:00 às 20:00",
+      "tipo": "familia",
+      "dirigente": "Presb. Gilvan Medeiros / Irm. Miriam",
+      "tema": "Eu e minha casa serviremos ao Senhor",
+      "observacao": "Culto especial para toda a família"
+    }
+  ],
+
+  "2026-02-17": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Perseverando em oração",
+      "observacao": "Onde dois ou três estiverem reunidos em meu nome, ali eu estarei.' (Mateus 18:20). Hoje é dia de orar, jejuar e exaltar ao Senhor! Venha participar. 🙌✨"
+    }
+  ],
+
+  "2026-02-19": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "A importância da sã doutrina",
+      "observacao": ""
+    }
+  ],
+
+  "2026-02-20": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": "“Direi ao Senhor: 'Tu és o meu refúgio e a minha fortaleza, o meu Deus, em quem confio'” (Salmo 91:1-2). 🛡️ Prepare seu coração para um tempo de cura, renovo e busca pelo Senhor. Venha se consagrar e fortalecer sua fé no Culto de Consagração!"
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+
+  "2026-02-22": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Gratidão",
+      "hora": "18:00 às 20:00",
+      "tipo": "gratidao",
+      "dirigente": "Irm. Gabriel / Irm. Marcelo",
+      "tema": "Em tudo dai graças",
+      "observacao": "Momento de testemunhos"
+    }
+  ],
+
+  "2026-02-24": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "O poder da oração",
+      "observacao": "Mas eu e a minha casa serviremos ao Senhor.' (Josué 24:15). Vamos unir nossa fé e blindar nossas casas com oração. Sua presença é muito importante. 👩‍👩‍👧‍👦🙏"
+    }
+  ],
+
+  "2026-02-26": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Vivendo a Palavra no dia a dia",
+      "observacao": ""
+    }
+  ],
+
+  "2026-02-27": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+
+  "2026-02-28": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "Dia da Humilhação",
+      "hora": "07:00 às 19:00",
+      "tipo": "humilhacao",
+      "dirigente": "Igreja em oração",
+      "tema": "Humilhai-vos perante o Senhor",
+      "observacao": "12h de oração – 4º sábado do mês"
+    }
+  ], 
+  "2026-03-01": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto das Primícias",
+      "hora": "18:00 às 20:00",
+      "tipo": "primicias",
+      "dirigente": "A definir",
+      "tema": "Honrando a Deus com as primícias",
+      "observacao": ""
+    }
+  ],
+  "2026-03-02": [
+    {
+      "dia_semana": "segunda-feira",
+      "titulo": "Santa Ceia na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Comunhão do Corpo de Cristo",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-03-03": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-03-05": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-03-06": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": "⏰ Tempo de se consagrar! Venha fortalecer sua fé e encher seu coração da presença de Deus no nosso Culto de Consagração. 📖✨ #Consagração #Oração #VidaComDeus"
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-03-07": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "UMADI na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Mulheres segundo o coração de Deus",
+      "observacao": "Culto das senhoras na igreja sede"
+    }
+  ],
+  "2026-03-08": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Missões",
+      "hora": "18:00 às 20:00",
+      "tipo": "missoes",
+      "dirigente": "A definir",
+      "tema": "Ide por todo o mundo",
+      "observacao": ""
+    }
+  ],
+  "2026-03-10": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-03-11": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "Santa Ceia do Senhor",
+      "hora": "19:00 às 21:00",
+      "tipo": "especial",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Fazei isto em memória de mim",
+      "observacao": "2ª quarta-feira do mês"
+    }
+  ],
+  "2026-03-12": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-03-13": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-03-15": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto da Família",
+      "hora": "18:00 às 20:00",
+      "tipo": "familia",
+      "dirigente": "A definir",
+      "tema": "Eu e minha casa serviremos ao Senhor",
+      "observacao": ""
+    }
+  ],
+  "2026-03-17": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-03-19": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-03-20": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-03-22": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Gratidão",
+      "hora": "18:00 às 20:00",
+      "tipo": "gratidao",
+      "dirigente": "A definir",
+      "tema": "Em tudo dai graças",
+      "observacao": ""
+    }
+  ],
+  "2026-03-24": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-03-26": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-03-27": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-03-28": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "Dia da Humilhação",
+      "hora": "07:00 às 19:00",
+      "tipo": "humilhacao",
+      "dirigente": "Igreja em oração",
+      "tema": "Humilhai-vos perante o Senhor",
+      "observacao": "12h de oração – 4º sábado do mês"
+    }
+  ],
+  "2026-03-29": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Senhoras",
+      "hora": "18:00 às 20:00",
+      "tipo": "senhoras",
+      "dirigente": "Irm. Miriam / Irm. Rose",
+      "tema": "Tema a definir",
+      "observacao": "📢 Atenção, guerreiras! Chegou o dia do nosso culto. Vamos juntas adorar ao Rei e aprender mais da Sua palavra. Esperamos você e sua convidada! 📖❤️"
+    }
+  ],
+  "2026-03-31": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-04-02": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-04-03": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-04-04": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "UMADI na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Mulheres segundo o coração de Deus",
+      "observacao": "Culto das senhoras na igreja sede"
+    }
+  ],
+  "2026-04-05": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto das Primícias",
+      "hora": "18:00 às 20:00",
+      "tipo": "primicias",
+      "dirigente": "A definir",
+      "tema": "Honrando a Deus com as primícias",
+      "observacao": ""
+    }
+  ],
+  "2026-04-06": [
+    {
+      "dia_semana": "segunda-feira",
+      "titulo": "Santa Ceia na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Comunhão do Corpo de Cristo",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-04-07": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-04-08": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "Santa Ceia do Senhor",
+      "hora": "19:00 às 21:00",
+      "tipo": "especial",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Fazei isto em memória de mim",
+      "observacao": "2ª quarta-feira do mês"
+    }
+  ],
+  "2026-04-09": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-04-10": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-04-12": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Missões",
+      "hora": "18:00 às 20:00",
+      "tipo": "missoes",
+      "dirigente": "A definir",
+      "tema": "Ide por todo o mundo",
+      "observacao": ""
+    }
+  ],
+  "2026-04-14": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-04-16": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-04-17": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-04-19": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto da Família",
+      "hora": "18:00 às 20:00",
+      "tipo": "familia",
+      "dirigente": "A definir",
+      "tema": "Eu e minha casa serviremos ao Senhor",
+      "observacao": ""
+    }
+  ],
+  "2026-04-21": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-04-23": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-04-24": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-04-25": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "Dia da Humilhação",
+      "hora": "07:00 às 19:00",
+      "tipo": "humilhacao",
+      "dirigente": "Igreja em oração",
+      "tema": "Humilhai-vos perante o Senhor",
+      "observacao": "12h de oração – 4º sábado do mês"
+    }
+  ],
+  "2026-04-26": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Gratidão",
+      "hora": "18:00 às 20:00",
+      "tipo": "gratidao",
+      "dirigente": "A definir",
+      "tema": "Em tudo dai graças",
+      "observacao": ""
+    }
+  ],
+  "2026-04-28": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-04-30": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-05-01": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-05-02": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "UMADI na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Mulheres segundo o coração de Deus",
+      "observacao": "Culto das senhoras na igreja sede"
+    }
+  ],
+  "2026-05-03": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto das Primícias",
+      "hora": "18:00 às 20:00",
+      "tipo": "primicias",
+      "dirigente": "A definir",
+      "tema": "Honrando a Deus com as primícias",
+      "observacao": ""
+    }
+  ],
+  "2026-05-04": [
+    {
+      "dia_semana": "segunda-feira",
+      "titulo": "Santa Ceia na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Comunhão do Corpo de Cristo",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-05-05": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-05-07": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-05-08": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-05-10": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Missões",
+      "hora": "18:00 às 20:00",
+      "tipo": "missoes",
+      "dirigente": "A definir",
+      "tema": "Ide por todo o mundo",
+      "observacao": ""
+    }
+  ],
+  "2026-05-12": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-05-13": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "Santa Ceia do Senhor",
+      "hora": "19:00 às 21:00",
+      "tipo": "especial",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Fazei isto em memória de mim",
+      "observacao": "2ª quarta-feira do mês"
+    }
+  ],
+  "2026-05-14": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-05-15": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-05-17": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto da Família",
+      "hora": "18:00 às 20:00",
+      "tipo": "familia",
+      "dirigente": "A definir",
+      "tema": "Eu e minha casa serviremos ao Senhor",
+      "observacao": ""
+    }
+  ],
+  "2026-05-19": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-05-21": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-05-22": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-05-23": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "Dia da Humilhação",
+      "hora": "07:00 às 19:00",
+      "tipo": "humilhacao",
+      "dirigente": "Igreja em oração",
+      "tema": "Humilhai-vos perante o Senhor",
+      "observacao": "12h de oração – 4º sábado do mês"
+    }
+  ],
+  "2026-05-24": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Gratidão",
+      "hora": "18:00 às 20:00",
+      "tipo": "gratidao",
+      "dirigente": "A definir",
+      "tema": "Em tudo dai graças",
+      "observacao": ""
+    }
+  ],
+  "2026-05-26": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-05-28": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-05-29": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-05-31": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto dos Jovens",
+      "hora": "18:00 às 20:00",
+      "tipo": "jovens",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Tema a definir",
+      "observacao": "Jovem! 📣 Prepare seu coração! Hoje é dia de renovar as forças e encontrar com o Autor da vida no nosso culto. Não venha sozinho! 🔥 #CultoJovem"
+    }
+  ],
+  "2026-06-01": [
+    {
+      "dia_semana": "segunda-feira",
+      "titulo": "Santa Ceia na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Comunhão do Corpo de Cristo",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-06-02": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-06-04": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-06-05": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-06-06": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "UMADI na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Mulheres segundo o coração de Deus",
+      "observacao": "Culto das senhoras na igreja sede"
+    }
+  ],
+  "2026-06-07": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto das Primícias",
+      "hora": "18:00 às 20:00",
+      "tipo": "primicias",
+      "dirigente": "A definir",
+      "tema": "Honrando a Deus com as primícias",
+      "observacao": ""
+    }
+  ],
+  "2026-06-09": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-06-10": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "Santa Ceia do Senhor",
+      "hora": "19:00 às 21:00",
+      "tipo": "especial",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Fazei isto em memória de mim",
+      "observacao": "2ª quarta-feira do mês"
+    }
+  ],
+  "2026-06-11": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-06-12": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-06-14": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Missões",
+      "hora": "18:00 às 20:00",
+      "tipo": "missoes",
+      "dirigente": "A definir",
+      "tema": "Ide por todo o mundo",
+      "observacao": ""
+    }
+  ],
+  "2026-06-16": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-06-18": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-06-19": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-06-21": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto da Família",
+      "hora": "18:00 às 20:00",
+      "tipo": "familia",
+      "dirigente": "A definir",
+      "tema": "Eu e minha casa serviremos ao Senhor",
+      "observacao": ""
+    }
+  ],
+  "2026-06-23": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-06-25": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-06-26": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-06-27": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "Dia da Humilhação",
+      "hora": "07:00 às 19:00",
+      "tipo": "humilhacao",
+      "dirigente": "Igreja em oração",
+      "tema": "Humilhai-vos perante o Senhor",
+      "observacao": "12h de oração – 4º sábado do mês"
+    }
+  ],
+  "2026-06-28": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Gratidão",
+      "hora": "18:00 às 20:00",
+      "tipo": "gratidao",
+      "dirigente": "A definir",
+      "tema": "Em tudo dai graças",
+      "observacao": ""
+    }
+  ],
+  "2026-06-30": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-07-02": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-07-03": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-07-04": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "UMADI na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Mulheres segundo o coração de Deus",
+      "observacao": "Culto das senhoras na igreja sede"
+    }
+  ],
+  "2026-07-05": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto das Primícias",
+      "hora": "18:00 às 20:00",
+      "tipo": "primicias",
+      "dirigente": "A definir",
+      "tema": "Honrando a Deus com as primícias",
+      "observacao": ""
+    }
+  ],
+  "2026-07-06": [
+    {
+      "dia_semana": "segunda-feira",
+      "titulo": "Santa Ceia na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Comunhão do Corpo de Cristo",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-07-07": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-07-08": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "Santa Ceia do Senhor",
+      "hora": "19:00 às 21:00",
+      "tipo": "especial",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Fazei isto em memória de mim",
+      "observacao": "2ª quarta-feira do mês"
+    }
+  ],
+  "2026-07-09": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-07-10": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-07-12": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Missões",
+      "hora": "18:00 às 20:00",
+      "tipo": "missoes",
+      "dirigente": "A definir",
+      "tema": "Ide por todo o mundo",
+      "observacao": ""
+    }
+  ],
+  "2026-07-14": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-07-16": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-07-17": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-07-19": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto da Família",
+      "hora": "18:00 às 20:00",
+      "tipo": "familia",
+      "dirigente": "A definir",
+      "tema": "Eu e minha casa serviremos ao Senhor",
+      "observacao": ""
+    }
+  ],
+  "2026-07-21": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-07-23": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-07-24": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-07-25": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "Dia da Humilhação",
+      "hora": "07:00 às 19:00",
+      "tipo": "humilhacao",
+      "dirigente": "Igreja em oração",
+      "tema": "Humilhai-vos perante o Senhor",
+      "observacao": "12h de oração – 4º sábado do mês"
+    }
+  ],
+  "2026-07-26": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Gratidão",
+      "hora": "18:00 às 20:00",
+      "tipo": "gratidao",
+      "dirigente": "A definir",
+      "tema": "Em tudo dai graças",
+      "observacao": ""
+    }
+  ],
+  "2026-07-28": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-07-30": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-07-31": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-08-01": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "UMADI na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Mulheres segundo o coração de Deus",
+      "observacao": "Culto das senhoras na igreja sede"
+    }
+  ],
+  "2026-08-02": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto das Primícias",
+      "hora": "18:00 às 20:00",
+      "tipo": "primicias",
+      "dirigente": "A definir",
+      "tema": "Honrando a Deus com as primícias",
+      "observacao": ""
+    }
+  ],
+  "2026-08-03": [
+    {
+      "dia_semana": "segunda-feira",
+      "titulo": "Santa Ceia na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Comunhão do Corpo de Cristo",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-08-04": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-08-06": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-08-07": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-08-09": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Missões",
+      "hora": "18:00 às 20:00",
+      "tipo": "missoes",
+      "dirigente": "A definir",
+      "tema": "Ide por todo o mundo",
+      "observacao": ""
+    }
+  ],
+  "2026-08-11": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-08-12": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "Santa Ceia do Senhor",
+      "hora": "19:00 às 21:00",
+      "tipo": "especial",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Fazei isto em memória de mim",
+      "observacao": "2ª quarta-feira do mês"
+    }
+  ],
+  "2026-08-13": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-08-14": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-08-16": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto da Família",
+      "hora": "18:00 às 20:00",
+      "tipo": "familia",
+      "dirigente": "A definir",
+      "tema": "Eu e minha casa serviremos ao Senhor",
+      "observacao": ""
+    }
+  ],
+  "2026-08-18": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-08-20": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-08-21": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-08-22": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "Dia da Humilhação",
+      "hora": "07:00 às 19:00",
+      "tipo": "humilhacao",
+      "dirigente": "Igreja em oração",
+      "tema": "Humilhai-vos perante o Senhor",
+      "observacao": "12h de oração – 4º sábado do mês"
+    }
+  ],
+  "2026-08-23": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Gratidão",
+      "hora": "18:00 às 20:00",
+      "tipo": "gratidao",
+      "dirigente": "A definir",
+      "tema": "Em tudo dai graças",
+      "observacao": ""
+    }
+  ],
+  "2026-08-25": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-08-27": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-08-28": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-08-30": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto das Crianças",
+      "hora": "18:00 às 20:00",
+      "tipo": "criancas",
+      "dirigente": "Irm. Aline / Irm. Elisiane",
+      "tema": "Jesus ama as crianças",
+      "observacao": "O Culto das Crianças é um tempo de aprender a ter um coração puro e confiar no cuidado de Deus. “Quem não se fizer como uma criança, de modo algum entrará no Reino dos Céus.” (Mateus 18:3) Esperamos vocês! 🤍" 
+    }
+  ],
+  "2026-09-01": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-09-03": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-09-04": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-09-05": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "UMADI na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Mulheres segundo o coração de Deus",
+      "observacao": "Culto das senhoras na igreja sede"
+    }
+  ],
+  "2026-09-06": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto das Primícias",
+      "hora": "18:00 às 20:00",
+      "tipo": "primicias",
+      "dirigente": "A definir",
+      "tema": "Honrando a Deus com as primícias",
+      "observacao": ""
+    }
+  ],
+  "2026-09-07": [
+    {
+      "dia_semana": "segunda-feira",
+      "titulo": "Santa Ceia na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Comunhão do Corpo de Cristo",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-09-08": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-09-09": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "Santa Ceia do Senhor",
+      "hora": "19:00 às 21:00",
+      "tipo": "especial",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Fazei isto em memória de mim",
+      "observacao": "2ª quarta-feira do mês"
+    }
+  ],
+  "2026-09-10": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-09-11": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-09-13": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Missões",
+      "hora": "18:00 às 20:00",
+      "tipo": "missoes",
+      "dirigente": "A definir",
+      "tema": "Ide por todo o mundo",
+      "observacao": ""
+    }
+  ],
+  "2026-09-15": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-09-17": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-09-18": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-09-20": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto da Família",
+      "hora": "18:00 às 20:00",
+      "tipo": "familia",
+      "dirigente": "A definir",
+      "tema": "Eu e minha casa serviremos ao Senhor",
+      "observacao": ""
+    }
+  ],
+  "2026-09-22": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-09-24": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-09-25": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-09-26": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "Dia da Humilhação",
+      "hora": "07:00 às 19:00",
+      "tipo": "humilhacao",
+      "dirigente": "Igreja em oração",
+      "tema": "Humilhai-vos perante o Senhor",
+      "observacao": "12h de oração – 4º sábado do mês"
+    }
+  ],
+  "2026-09-27": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Gratidão",
+      "hora": "18:00 às 20:00",
+      "tipo": "gratidao",
+      "dirigente": "A definir",
+      "tema": "Em tudo dai graças",
+      "observacao": ""
+    }
+  ],
+  "2026-09-29": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-10-01": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-10-02": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-10-03": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "UMADI na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Mulheres segundo o coração de Deus",
+      "observacao": "Culto das senhoras na igreja sede"
+    }
+  ],
+  "2026-10-04": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto das Primícias",
+      "hora": "18:00 às 20:00",
+      "tipo": "primicias",
+      "dirigente": "A definir",
+      "tema": "Honrando a Deus com as primícias",
+      "observacao": ""
+    }
+  ],
+  "2026-10-05": [
+    {
+      "dia_semana": "segunda-feira",
+      "titulo": "Santa Ceia na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Comunhão do Corpo de Cristo",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-10-06": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-10-08": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-10-09": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-10-11": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Missões",
+      "hora": "18:00 às 20:00",
+      "tipo": "missoes",
+      "dirigente": "A definir",
+      "tema": "Ide por todo o mundo",
+      "observacao": ""
+    }
+  ],
+  "2026-10-13": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-10-14": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "Santa Ceia do Senhor",
+      "hora": "19:00 às 21:00",
+      "tipo": "especial",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Fazei isto em memória de mim",
+      "observacao": "2ª quarta-feira do mês"
+    }
+  ],
+  "2026-10-15": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-10-16": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-10-18": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto da Família",
+      "hora": "18:00 às 20:00",
+      "tipo": "familia",
+      "dirigente": "A definir",
+      "tema": "Eu e minha casa serviremos ao Senhor",
+      "observacao": ""
+    }
+  ],
+  "2026-10-20": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-10-22": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-10-23": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-10-24": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "Dia da Humilhação",
+      "hora": "07:00 às 19:00",
+      "tipo": "humilhacao",
+      "dirigente": "Igreja em oração",
+      "tema": "Humilhai-vos perante o Senhor",
+      "observacao": "12h de oração – 4º sábado do mês"
+    }
+  ],
+  "2026-10-25": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Gratidão",
+      "hora": "18:00 às 20:00",
+      "tipo": "gratidao",
+      "dirigente": "A definir",
+      "tema": "Em tudo dai graças",
+      "observacao": ""
+    }
+  ],
+  "2026-10-27": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-10-29": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-10-30": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-11-01": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto das Primícias",
+      "hora": "18:00 às 20:00",
+      "tipo": "primicias",
+      "dirigente": "A definir",
+      "tema": "Honrando a Deus com as primícias",
+      "observacao": ""
+    }
+  ],
+  "2026-11-02": [
+    {
+      "dia_semana": "segunda-feira",
+      "titulo": "Santa Ceia na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Comunhão do Corpo de Cristo",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-11-03": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-11-05": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-11-06": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-11-07": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "UMADI na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Mulheres segundo o coração de Deus",
+      "observacao": "Culto das senhoras na igreja sede"
+    }
+  ],
+  "2026-11-08": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Missões",
+      "hora": "18:00 às 20:00",
+      "tipo": "missoes",
+      "dirigente": "A definir",
+      "tema": "Ide por todo o mundo",
+      "observacao": ""
+    }
+  ],
+  "2026-11-10": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-11-11": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "Santa Ceia do Senhor",
+      "hora": "19:00 às 21:00",
+      "tipo": "especial",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Fazei isto em memória de mim",
+      "observacao": "2ª quarta-feira do mês"
+    }
+  ],
+  "2026-11-12": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-11-13": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-11-15": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto da Família",
+      "hora": "18:00 às 20:00",
+      "tipo": "familia",
+      "dirigente": "A definir",
+      "tema": "Eu e minha casa serviremos ao Senhor",
+      "observacao": ""
+    }
+  ],
+  "2026-11-17": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-11-19": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-11-20": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-11-22": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Gratidão",
+      "hora": "18:00 às 20:00",
+      "tipo": "gratidao",
+      "dirigente": "A definir",
+      "tema": "Em tudo dai graças",
+      "observacao": ""
+    }
+  ],
+  "2026-11-24": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-11-26": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-11-27": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-11-28": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "Dia da Humilhação",
+      "hora": "07:00 às 19:00",
+      "tipo": "humilhacao",
+      "dirigente": "Igreja em oração",
+      "tema": "Humilhai-vos perante o Senhor",
+      "observacao": "12h de oração – 4º sábado do mês"
+    }
+  ],
+  "2026-11-29": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Senhoras",
+      "hora": "18:00 às 20:00",
+      "tipo": "senhoras",
+      "dirigente": "Irm. Miriam / Irm. Rose",
+      "tema": "Tema a definir",
+      "observacao": "Querida irmã, que a graça e a paz do Senhor estejam com você! Hoje é dia de nos reunirmos e celebrarmos a força, a fé e a dedicação que Deus colocou em cada uma de nós. Você é preciosa! Venha renovar suas energias no culto de senhoras. Esperamos você! 🌸📖"
+    }
+  ],
+  "2026-12-01": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-12-03": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-12-04": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-12-05": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "UMADI na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Mulheres segundo o coração de Deus",
+      "observacao": "Culto das senhoras na igreja sede"
+    }
+  ],
+  "2026-12-06": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto das Primícias",
+      "hora": "18:00 às 20:00",
+      "tipo": "primicias",
+      "dirigente": "A definir",
+      "tema": "Honrando a Deus com as primícias",
+      "observacao": ""
+    }
+  ],
+  "2026-12-07": [
+    {
+      "dia_semana": "segunda-feira",
+      "titulo": "Santa Ceia na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Comunhão do Corpo de Cristo",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-12-08": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-12-09": [
+    {
+      "dia_semana": "quarta-feira",
+      "titulo": "Santa Ceia do Senhor",
+      "hora": "19:00 às 21:00",
+      "tipo": "especial",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Fazei isto em memória de mim",
+      "observacao": "2ª quarta-feira do mês"
+    }
+  ],
+  "2026-12-10": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-12-11": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-12-13": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Missões",
+      "hora": "18:00 às 20:00",
+      "tipo": "missoes",
+      "dirigente": "A definir",
+      "tema": "Ide por todo o mundo",
+      "observacao": ""
+    }
+  ],
+  "2026-12-15": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-12-17": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-12-18": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-12-20": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto da Família",
+      "hora": "18:00 às 20:00",
+      "tipo": "familia",
+      "dirigente": "A definir",
+      "tema": "Eu e minha casa serviremos ao Senhor",
+      "observacao": ""
+    }
+  ],
+  "2026-12-22": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-12-24": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ],
+  "2026-12-25": [
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Culto de Consagração",
+      "hora": "07:00 às 08:00",
+      "tipo": "consagracao",
+      "dirigente": "Irm. Rosinha / Irm. Rose",
+      "tema": "Separados para Deus",
+      "observacao": ""
+    },
+    {
+      "dia_semana": "sexta-feira",
+      "titulo": "Doutrina na Sede",
+      "hora": "19:00 às 21:00",
+      "tipo": "sede",
+      "dirigente": "A definir",
+      "tema": "Firmados na Palavra",
+      "observacao": "Evento realizado na igreja sede"
+    }
+  ],
+  "2026-12-26": [
+    {
+      "dia_semana": "sábado",
+      "titulo": "Dia da Humilhação",
+      "hora": "07:00 às 19:00",
+      "tipo": "humilhacao",
+      "dirigente": "Igreja em oração",
+      "tema": "Humilhai-vos perante o Senhor",
+      "observacao": "12h de oração – 4º sábado do mês"
+    }
+  ],
+  "2026-12-27": [
+    {
+      "dia_semana": "domingo",
+      "titulo": "EBD – Escola Bíblica Dominical",
+      "hora": "09:00 às 11:00",
+      "tipo": "ebd",
+      "dirigente": "Professores da EBD",
+      "tema": "Lições Bíblicas",
+      "observacao": "Ensino bíblico dominical"
+    },
+    {
+      "dia_semana": "domingo",
+      "titulo": "Culto de Gratidão",
+      "hora": "18:00 às 20:00",
+      "tipo": "gratidao",
+      "dirigente": "A definir",
+      "tema": "Em tudo dai graças",
+      "observacao": ""
+    }
+  ],
+  "2026-12-29": [
+    {
+      "dia_semana": "terça-feira",
+      "titulo": "Círculo de Oração",
+      "hora": "19:00 às 21:00",
+      "tipo": "oracao",
+      "dirigente": "Irm. Miriam / Irm. Rosinha",
+      "tema": "Oração que move o céu",
+      "observacao": ""
+    }
+  ],
+  "2026-12-31": [
+    {
+      "dia_semana": "quinta-feira",
+      "titulo": "Culto de Doutrina",
+      "hora": "19:00 às 21:00",
+      "tipo": "doutrina",
+      "dirigente": "Presb. Gilvan Medeiros",
+      "tema": "Doutrina bíblica",
+      "observacao": ""
+    }
+  ]
+}
