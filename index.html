@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <!-- TITLE dinâmico via JS -->
+  <title>Carregando...</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- =====================
+       SEO BASE (DINÂMICO)
+       ===================== -->
+  <meta name="description" content="">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Anderson Maia">
+  <meta name="creator" content="Anderson Maia">
+
+  <!-- Open Graph (WhatsApp / Facebook / etc) -->
+  <meta property="og:title" content="">
+  <meta property="og:description" content="">
+  <meta property="og:image" content="">
+  <meta property="og:url" content="">
+  <meta property="og:type" content="website">
+
+  <!-- =====================
+       PERFORMANCE
+       ===================== -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <!-- Fonte -->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap"
+        rel="stylesheet">
+
+  <!-- =====================
+       BRANDING (DINÂMICO)
+       ===================== -->
+  <link rel="icon" href="img/icon-192.png">
+  <link rel="apple-touch-icon" href="img/icon-192.png">
+
+  <!-- PWA -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0b3c5d">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Carregando...">
+
+  <!-- =====================
+       CSS
+       ===================== -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+
+  <!-- =====================
+       QR Code
+       ===================== -->
+  <script src="https://cdn.jsdelivr.net/npm/qrcode/build/qrcode.min.js" defer></script>
+
+  <!-- script principal -->
+  <script src="js/app.js" defer></script>
+
+</head>
+
+
+<body>
+
+<!-- HEADER -->
+<header>
+  
+  <div class="logo-wrapper">
+  <img id="logoSite"
+      src=""
+      alt=""
+      loading="eager"
+      width="200">
+  </div>
+
+  <h1 data-config="igreja.nome"></h1>
+  <p data-config="igreja.subtitulo"></p>
+
+</header>
+
+<!-- MENU -->
+<nav class="nav">
+  <button class="nav-toggle" onclick="toggleMenu()">☰</button>
+
+  <div class="nav-links" id="navLinks">
+    <a href="#sobre" onclick="fecharMenu()">Sobre</a>
+    <a href="#cultos" onclick="fecharMenu()">Cultos</a>
+    <a href="#agenda-mensal-card" onclick="fecharMenu()">Agenda</a>
+    <a href="#pix" onclick="fecharMenu()">Dízimos & Ofertas</a>
+    <a href="#local" onclick="fecharMenu()">Localização</a>
+  </div>
+</nav>
+
+<div class="container">
+
+  <div class="card versiculo-card" id="versiculo-card">
+    <h2>✨ Versículo do Dia</h2>
+
+    <p class="versiculo-texto">
+      Carregando a Palavra...
+    </p>
+
+    <p class="versiculo-ref"></p>
+
+    <div class="versiculo-acoes">
+      <button onclick="atualizarVersiculo()">
+        <i class="bi bi-arrow-repeat"></i>
+        Atualizar
+      </button>
+
+      <button onclick="curtirVersiculo()">
+        <i class="bi bi-heart-fill"></i>
+        Curtir
+      </button>
+
+      <button onclick="compartilharVersiculo()">
+        <i class="bi bi-share"></i>
+        Compartilhar
+      </button>
+    </div>
+
+  </div>
+
+  <div class="card" id="sobre" style="text-align:center;">
+    <h2>📖 Sobre a Igreja</h2>
+
+    <p>
+    A <strong data-config="igreja.nome"></strong>
+    é uma congregação cristã vinculada à <span data-config="igreja.subtitulo"></span>,
+    comprometida com a pregação fiel do Evangelho de Jesus Cristo, a comunhão
+    dos irmãos e o serviço ao próximo, fundamentada na Palavra de Deus.
+    </p>
+
+    <p>
+    Estamos sob a liderança pastoral da sede, presidida pelo
+    <strong data-config="igreja.presidente"></strong>, e contamos com a liderança
+    local do <strong data-config="igreja.lider_local"></strong>, sempre seguindo a
+    doutrina e a Declaração de Fé das Assembleias de Deus no Brasil.
+    </p>
+
+  </div>
+
+  <div class="card" id="cultos">
+
+    <div style="text-align:center;">
+     <h2>⏰ Horários de Culto</h2>
+    </div>
+    
+    <ul class="lista-cultos">
+
+      <li>
+        <span class="icon">🔥</span>
+        <div class="culto-info">
+          <strong class="culto-dia">Terça-feira</strong>
+          <span class="culto-tipo">Círculo de Oração</span>
+          <small class="culto-hora">19:00 às 21:00</small>
+        </div>
+      </li>
+
+      <li>
+        <span class="icon">📘</span>
+        <div class="culto-info">
+          <strong class="culto-dia">Quinta-feira</strong>
+          <span class="culto-tipo">Doutrina</span>
+          <small class="culto-hora">19:00 às 21:00</small>
+        </div>
+      </li>
+
+      <li>
+        <span class="icon">📖</span>
+        <div class="culto-info">
+          <strong class="culto-dia">Domingo</strong>
+          <span class="culto-tipo">EBD – Escola Bíblica Dominical</span>
+          <small class="culto-hora">09:00 às 11:00</small>
+        </div>
+      </li>
+
+      <li>
+        <span class="icon">🙏</span>
+        <div class="culto-info">
+          <strong class="culto-dia">Domingo</strong>
+          <span class="culto-tipo">Culto</span>
+          <small class="culto-hora">18:00 às 20:00</small>
+        </div>
+      </li>
+
+      </ul>
+
+
+  </div>
+
+    <!-- =========================
+        AGENDA MENSAL
+        ========================= -->
+    <div class="card" id="agenda-mensal-card">
+    <h2 style="text-align:center;">📅 Agenda Mensal</h2>
+
+    <div class="agenda-header">
+        <button onclick="mesAnterior()">◀</button>
+        <strong id="mesAno"></strong>
+        <button onclick="mesSeguinte()">▶</button>
+    </div>
+
+    <div class="agenda-semana">
+    <div class="fds">Dom</div>
+    <div>Seg</div>
+    <div>Ter</div>
+    <div>Qua</div>
+    <div>Qui</div>
+    <div>Sex</div>
+    <div class="fds">Sáb</div>
+    </div>
+
+    <div class="agenda-grid" id="agendaGrid"></div>
+
+    <div class="agenda-legenda-wrapper">
+
+      <button class="btn-legenda-toggle" onclick="toggleLegenda()">
+        ℹ️ Mostrar legenda
+      </button>
+
+      <div class="agenda-legenda" id="agendaLegenda">
+        <span data-tipo="oracao">🔥 Círculo de Oração</span>
+        <span data-tipo="culto">🙏 Culto</span>
+        <span data-tipo="doutrina">📘 Doutrina</span>
+        <span data-tipo="ebd">📖 EBD</span>
+        <span data-tipo="familia">👨‍👩‍👧‍👦 Família</span>
+        <span data-tipo="gratidao">🙌 Gratidão</span>
+        <span data-tipo="humilhacao">🕊️ Humilhação</span>
+        <span data-tipo="missoes">🌍 Missões</span>
+        <span data-tipo="primicias">🌾 Primícias</span>
+        <span data-tipo="consagracao">☀️ Consagração</span>
+        <span data-tipo="especial">✝️ Santa Ceia</span>
+        <span data-tipo="vigilia">🌙 Vigília</span>
+        <span data-tipo="senhoras">🌸 Senhoras</span>
+        <span data-tipo="jovens">🎸 Jovens</span>
+        <span data-tipo="criancas">🧸 Crianças</span>
+        <span data-tipo="sede">🛡️ Sede</span>
+      </div>
+
+    </div>
+
+    <p style="text-align:center;font-size:13px;color:#555;margin-top:10px;">
+        🔵 Clique nos dias destacados para ver detalhes
+    </p>
+    </div>
+
+    <!-- =========================
+        AGENDA SEMANAL
+        ========================= -->
+    <div class="card" id="agenda-semanal-card">
+    <h2 style="text-align:center;">📆 Agenda da Semana</h2>
+
+    <div class="agenda-semanal" id="agendaSemanal"></div>
+
+    <p style="text-align:center;font-size:13px;color:#555;">
+        👉 Arraste para o lado para ver os próximos dias
+    </p>
+    </div>
+
+  <div class="card" id="pix">
+
+    <div style="text-align:center;">
+
+
+      <h2>💳 Dízimos & Ofertas (PIX)</h2>
+
+      <p><strong>Chave PIX:</strong>
+      <span data-config="pix.chave"></span></p>
+
+      <p><strong>Recebedor:</strong>
+      <span data-config="pix.nome"></span></p>
+
+      <label><strong>Valor (R$)</strong></label><br><br>
+
+      <input
+        type="text"
+        id="valorPix"
+        placeholder="Ex: 50,00"
+        inputmode="numeric"
+        pattern="[0-9]*"
+        maxlength="10"
+        oninput="formatarValor(this)"
+      >
+
+      <p id="valorResumo"
+        style="margin-top:12px;font-weight:700;font-size:18px;text-align:center;color:#0b3c5d;">
+      </p>
+
+    
+      <button id="btnPix" onclick="gerarPix()" disabled>
+        Gerar QR Code PIX
+      </button>
+
+    </div>
+
+    <div style="display:flex; justify-content:center; margin-top:25px;">
+      <canvas id="qrcode"></canvas>
+    </div>
+
+    <div style="text-align:center; margin-top:10px;">
+      <button id="btnCopiarPix" onclick="copiarPix()" disabled>
+        📋 Copiar código PIX
+      </button>
+    </div>
+
+    <p id="msgCopiado"
+      style="text-align:center;margin-top:8px;color:green;font-weight:600;display:none;">
+      ✅ Código PIX copiado!
+    </p>
+
+    <p style="font-size:13px; text-align:center; color:#555;">
+      🔒 Confira no app do banco se o recebedor é
+      <strong data-config="pix.nome"></strong>.
+    </p>
+
+    <p style="font-style:italic; text-align:center;">
+      “Cada um contribua segundo propôs no coração.” – 2Co 9:7
+    </p>
+  </div>
+
+    <div class="card" id="local" style="text-align:center;">
+    <h2>📍 Localização</h2>
+
+    <div class="mapa" id="mapaContainer" style="min-height:320px;">
+
+      <!-- placeholder limpo -->
+      <div id="mapaPlaceholder" class="mapa-placeholder">
+        Carregando mapa...
+      </div>
+
+    </div>
+
+    <a href="https://adindustrial.com.br"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="logo-industrial"
+    title="Visitar site da AD Industrial">
+
+    <img src="https://adindustrial.com.br/wp-content/uploads/2024/12/logo-cor.png.webp"
+        loading="lazy"
+        alt="AD Industrial">
+    </a>
+
+    </div>
+
+
+</div>
+
+<a class="whatsapp"
+   href="https://wa.me/5585986498687"
+   target="_blank"
+   title="Fale conosco no WhatsApp"
+   aria-label="WhatsApp">
+  <svg xmlns="http://www.w3.org/2000/svg"
+       viewBox="0 0 32 32"
+       width="26" height="26"
+       fill="white">
+    <path d="M19.11 17.53c-.27-.14-1.58-.78-1.83-.87-.25-.09-.43-.14-.61.14-.18.27-.7.87-.86 1.05-.16.18-.32.2-.59.07-.27-.14-1.14-.42-2.17-1.34-.8-.71-1.34-1.58-1.5-1.85-.16-.27-.02-.42.12-.56.12-.12.27-.32.41-.48.14-.16.18-.27.27-.45.09-.18.05-.34-.02-.48-.07-.14-.61-1.47-.84-2.01-.22-.54-.45-.47-.61-.48-.16-.01-.34-.01-.52-.01-.18 0-.48.07-.73.34-.25.27-.96.94-.96 2.29 0 1.35.99 2.66 1.13 2.84.14.18 1.95 2.98 4.73 4.18.66.28 1.18.45 1.58.58.66.21 1.26.18 1.73.11.53-.08 1.58-.65 1.8-1.28.22-.63.22-1.17.16-1.28-.07-.11-.25-.18-.52-.32z"/>
+    <path d="M16 2.67C8.83 2.67 3 8.5 3 15.67c0 2.76.73 5.35 2.12 7.61L3 29l5.87-2.04c2.19 1.19 4.7 1.82 7.13 1.82 7.17 0 13-5.83 13-13S23.17 2.67 16 2.67zm0 23.13c-2.27 0-4.5-.61-6.44-1.76l-.46-.27-3.48 1.21 1.13-3.38-.3-.48c-1.3-2.04-1.99-4.4-1.99-6.79 0-6.98 5.68-12.67 12.67-12.67S28.67 8.35 28.67 15.33 22.98 28 16 28z"/>
+  </svg>
+</a>
+
+
+<!-- MODAL -->
+<div class="modal" id="modalEvento" onclick="clicouForaModal(event)">
+
+  <div class="modal-conteudo" role="dialog" aria-modal="true">
+
+    <h3 id="modalTitulo"></h3>
+    <p id="modalData"></p>
+
+    <div id="modalListaEventos"></div>
+
+    <button onclick="fecharModal()">Fechar</button>
+
+  </div>
+
+</div>
+
+<footer>
+  <span data-config="app.nome_completo"></span><br>
+  Desenvolvido por Anderson Maia<br>
+  
+  <small>
+  © <span id="ano"></span> – Versão 
+  <span data-config="app.versao"></span>
+  </small>
+
+</footer>
+
+</body>
+</html>
