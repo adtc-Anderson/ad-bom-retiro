@@ -40,7 +40,21 @@
     }
   }
 
-  function gerarQrEstatico(){
+function gerarQrFixo() {
+
+  const payload = CONFIG.pix?.payload;
+  if (!payload) return;
+
+  QRCode.toCanvas(
+    document.getElementById("qrcode"),
+    payload,
+    { width: 260 }
+  );
+
+  document.getElementById("qrWrapper").style.display = "flex";
+}
+
+function gerarQrEstatico(){
 
   const payload = CONFIG.pix.payload;
 
@@ -81,6 +95,7 @@ function abrirPix(){
     aplicarBranding(); // cores primeiro
     aplicarLogo();
     aplicarConfig();
+    gerarQrFixo();
     aplicarSEO();
   }
 
@@ -984,6 +999,7 @@ function abrirPix(){
     carregarMapa();
 
    });
+
 
 
 
