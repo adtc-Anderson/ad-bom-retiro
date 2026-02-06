@@ -15,7 +15,7 @@
 
   "app": {
     "nome_completo": "ADTC Bom Retiro – Assembleia de Deus",
-    "versao": "1.0.8"
+    "versao": "1.0.9"
   },
 
   "tema": {
@@ -54,4 +54,5 @@
 
 
 }
+
 
