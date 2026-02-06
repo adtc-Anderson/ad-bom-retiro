@@ -67,28 +67,46 @@ function gerarQrFixo() {
 
 }
 
-function copiarPix(){
+function copiarPix() {
 
-  navigator.clipboard.writeText(CONFIG.pix.payload);
+  const payload = CONFIG?.pix?.payload;
 
-  const msg = document.getElementById("msgCopiado");
-  msg.style.display = "block";
+  if(!payload){
+    alert("PIX não configurado.");
+    return;
+  }
 
-  setTimeout(()=>{
-    msg.style.display = "none";
-  },2000);
+  navigator.clipboard.writeText(payload).then(() => {
+
+    const msg = document.getElementById('msgCopiado');
+    msg.style.display = 'block';
+
+    setTimeout(() => {
+      msg.style.display = 'none';
+    }, 2500);
+
+  }).catch(()=>{
+    alert("Erro ao copiar o PIX.");
+  });
 
 }
 
 function abrirPix(){
 
-  const payload = encodeURIComponent(CONFIG.pix.payload);
+  const payload = CONFIG?.pix?.payload;
 
-  window.location.href = `pix://pay?payload=${payload}`;
+  if(!payload){
+    alert("PIX não configurado.");
+    return;
+  }
+
+  const encoded = encodeURIComponent(payload);
+
+  window.location.href = `https://pix.app/pay?payload=${encoded}`;
 
 }
 
-  function iniciarSite() {
+function iniciarSite() {
     aplicarBranding(); // cores primeiro
     aplicarLogo();
     aplicarConfig();
@@ -96,7 +114,7 @@ function abrirPix(){
     aplicarSEO();
   }
 
-  function aplicarLogo() {
+function aplicarLogo() {
 
     const logo = document.getElementById("logoSite");
     if (!logo) return;
@@ -975,6 +993,7 @@ function abrirPix(){
     carregarMapa();
 
    });
+
 
 
 
