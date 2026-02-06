@@ -798,6 +798,123 @@ footer {
   text-align: center;
 }
 
+/* ================= PIX CARD ================= */
+
+.pix-card{
+  text-align:center;
+  padding:30px 20px;
+}
+
+/* título */
+
+.pix-title{
+  font-size:26px;
+  margin-bottom:20px;
+  color:var(--cor-primaria);
+}
+
+/* infos */
+
+.pix-info span{
+  font-size:13px;
+  color:#777;
+}
+
+.pix-chave strong{
+  font-size:20px;
+  letter-spacing:1px;
+}
+
+.pix-recebedor{
+  margin-top:10px;
+}
+
+.pix-texto{
+  margin-top:12px;
+  font-size:14px;
+  color:#666;
+}
+
+/* QR */
+
+.qr-wrapper{
+  display:flex;
+  justify-content:center;
+  margin:28px 0;
+}
+
+.qr-wrapper canvas{
+  background:white;
+  padding:18px;
+  border-radius:16px;
+  box-shadow:0 10px 30px rgba(0,0,0,.08);
+}
+
+/* botões */
+
+.pix-botoes{
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+  margin-top:10px;
+}
+
+.btn-pix{
+  border:none;
+  padding:14px;
+  border-radius:10px;
+  font-weight:700;
+  font-size:16px;
+  cursor:pointer;
+  transition:.25s;
+}
+
+/* abrir banco */
+
+.btn-pix.abrir{
+  background:linear-gradient(135deg,#32BCAD,#2aa79a);
+  color:white;
+}
+
+.btn-pix.abrir:hover{
+  transform:translateY(-2px);
+}
+
+/* copiar */
+
+.btn-pix.copiar{
+  background:#163e5c;
+  color:white;
+}
+
+.btn-pix.copiar:hover{
+  transform:translateY(-2px);
+}
+
+/* msg copiado */
+
+.pix-copiado{
+  display:none;
+  color:green;
+  font-weight:700;
+  margin-top:8px;
+}
+
+/* segurança */
+
+.pix-seguranca{
+  font-size:13px;
+  color:#555;
+  margin-top:14px;
+}
+
+/* versículo */
+
+.pix-versiculo{
+  font-style:italic;
+  margin-top:10px;
+}
+
 /* ===== AGENDA MENSAL – AJUSTE MOBILE ===== */
 @media (max-width: 480px) {
 
@@ -823,4 +940,5 @@ footer {
     min-height: 62px;       /* um pouco maior que o normal */
   }
 }
+
 
