@@ -263,75 +263,64 @@
     </p>
     </div>
 
-    <div class="card" id="pix">
+    <div class="card pix-card" id="pix">
 
-  <div style="text-align:center;">
+  <h2 class="pix-title">
+    💳 Dízimos & Ofertas (PIX)
+  </h2>
 
-    <h2>💳 Dízimos & Ofertas (PIX)</h2>
+  <div class="pix-info">
 
-    <p>
-      <strong>Chave PIX:</strong>
-      <span data-config="pix.chave"></span>
+    <p class="pix-chave">
+      <span>Chave PIX</span><br>
+      <strong data-config="pix.chave"></strong>
     </p>
 
-    <p>
-      <strong>Recebedor:</strong>
-      <span data-config="pix.nome"></span>
+    <p class="pix-recebedor">
+      Recebedor:<br>
+      <strong data-config="pix.nome"></strong>
     </p>
 
-    <p style="font-size:14px;color:#666;margin-top:10px;">
-      Escaneie o QR Code ou copie o código PIX e digite o valor desejado no aplicativo do seu banco.
+    <p class="pix-texto">
+      Escaneie o QR Code ou copie o código PIX e informe o valor no aplicativo do seu banco.
     </p>
-
-    <!-- BOTÃO ABRIR BANCO -->
-    <button onclick="abrirPix()"
-      style="
-        margin-top:14px;
-        background:#32BCAD;
-        border:none;
-        color:white;
-        padding:12px 18px;
-        border-radius:8px;
-        font-weight:700;
-        cursor:pointer;">
-      📲 Abrir direto no app do banco
-    </button>
 
   </div>
 
 
-  <!-- QR -->
-  <div style="display:flex; justify-content:center; margin-top:25px;">
+  <!-- QR CODE -->
+  <div class="qr-wrapper">
     <canvas id="qrcode"></canvas>
   </div>
 
 
-  <!-- copiar -->
-  <div style="text-align:center; margin-top:10px;">
-    <button id="btnCopiarPix"
-            onclick="copiarPix()">
+  <!-- BOTÕES -->
+  <div class="pix-botoes">
+
+    <button class="btn-pix abrir"
+      onclick="abrirPix()">
+      📲 Abrir no app do banco
+    </button>
+
+    <button class="btn-pix copiar"
+      onclick="copiarPix()">
       📋 Copiar código PIX
     </button>
+
   </div>
 
 
-  <p id="msgCopiado"
-     style="
-      text-align:center;
-      margin-top:8px;
-      color:green;
-      font-weight:600;
-      display:none;">
+  <p id="msgCopiado" class="pix-copiado">
     ✅ Código PIX copiado!
   </p>
 
 
-  <p style="font-size:13px; text-align:center; color:#555;">
-    🔒 Confira no app do banco se o recebedor é
-    <strong data-config="pix.nome"></strong>.
+  <p class="pix-seguranca">
+    🔒 Confira no app do banco se o recebedor é  
+    <strong data-config="pix.nome"></strong>
   </p>
 
-  <p style="font-style:italic; text-align:center;">
+  <p class="pix-versiculo">
     “Cada um contribua segundo propôs no coração.” – 2Co 9:7
   </p>
 
@@ -412,3 +401,4 @@
 </body>
 
 </html>
+
