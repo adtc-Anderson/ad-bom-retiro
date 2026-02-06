@@ -340,59 +340,56 @@
     return crc.toString(16).toUpperCase().padStart(4, '0');
   }
 
-  function gerarPix() {
+  function montarCampo(id, valor) {
+    return id + valor.length.toString().padStart(2, "0") + valor;
+}
 
-    if (!CONFIG?.pix) {
-      alert("Sistema ainda está carregando...");
-      return;
-    }
+function gerarPix() {
 
-    // 🔒 Sempre limpa antes de gerar (evita QR antigo)
     limparPix();
 
     const valor = parseFloat(
-      document.getElementById('valorPix').value.replace(',', '.')
+        document.getElementById('valorPix').value.replace(',', '.')
     );
 
-    // proteção contra valor inválido
-    if (!valor || valor < 1) {
-      return;
-    }
+    if (!valor || valor < 1) return;
 
-    const valorFormatado = valor.toFixed(2);
-    const chavePix = CONFIG.pix.chave;
-    const nome = CONFIG.pix.nome;
-    const cidade = CONFIG.pix.cidade;
+    const chave = CONFIG.pix.chave.replace(/\D/g, '');
 
-    let payload =
-      "000201" +
-      "2636" +
-        "0014BR.GOV.BCB.PIX" +
-        "01" + chavePix.length.toString().padStart(2,'0') + chavePix +
-      "52040000" +
-      "5303986" +
-      "54" + valorFormatado.length.toString().padStart(2,'0') + valorFormatado +
-      "5802BR" +
-      "59" + nome.length.toString().padStart(2,'0') + nome +
-      "60" + cidade.length.toString().padStart(2,'0') + cidade +
-      "6304";
+    // 🔥 TELEFONE PRECISA TER DDI
+    const chavePix = chave.startsWith("55") ? chave : "55" + chave;
 
-    // calcula CRC
-    payload += crc16(payload);
+    const nome = CONFIG.pix.nome.substring(0,25);
+    const cidade = CONFIG.pix.cidade.substring(0,15);
 
-    // 🔥 salva o PIX válido
+    const gui = montarCampo("00", "BR.GOV.BCB.PIX");
+    const chaveCampo = montarCampo("01", chavePix);
+
+    const merchantAccount = montarCampo("26", gui + chaveCampo);
+
+    const payloadSemCRC =
+        "000201" +
+        merchantAccount +
+        "52040000" +
+        "5303986" +
+        montarCampo("54", valor.toFixed(2)) +
+        "5802BR" +
+        montarCampo("59", nome) +
+        montarCampo("60", cidade) +
+        "6304";
+
+    const payload = payloadSemCRC + crc16(payloadSemCRC);
+
     payloadPixGerado = payload;
 
-    // habilita copiar SOMENTE aqui
     document.getElementById('btnCopiarPix').disabled = false;
 
-    // gera QR Code
     QRCode.toCanvas(
-      document.getElementById('qrcode'),
-      payload,
-      { width: 240 }
+        document.getElementById('qrcode'),
+        payload,
+        { width: 240 }
     );
-  }
+}
 
   function limparPix() {
     payloadPixGerado = '';
@@ -811,5 +808,6 @@
     carregarMapa();
 
    });
+
 
 
