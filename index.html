@@ -263,70 +263,79 @@
     </p>
     </div>
 
-  <div class="card" id="pix">
+    <div class="card" id="pix">
 
-    <div style="text-align:center;">
+  <div style="text-align:center;">
 
+    <h2>💳 Dízimos & Ofertas (PIX)</h2>
 
-      <h2>💳 Dízimos & Ofertas (PIX)</h2>
-
-      <p><strong>Chave PIX:</strong>
-      <span 
-      data-config="pix.chave"
-      data-format="pix">
-      </span>
-      </p>
-
-      <p><strong>Recebedor:</strong>
-      <span data-config="pix.nome"></span></p>
-
-      <label><strong>Valor (R$)</strong></label><br><br>
-
-      <input
-        type="text"
-        id="valorPix"
-        placeholder="Ex: 50,00"
-        inputmode="numeric"
-        pattern="[0-9]*"
-        maxlength="10"
-        oninput="formatarValor(this)"
-      >
-
-      <p id="valorResumo"
-        style="margin-top:12px;font-weight:700;font-size:18px;text-align:center;color:#0b3c5d;">
-      </p>
-
-    
-      <button id="btnPix" onclick="gerarPix()" disabled>
-        Gerar QR Code PIX
-      </button>
-
-    </div>
-
-    <div style="display:flex; justify-content:center; margin-top:25px;">
-      <canvas id="qrcode"></canvas>
-    </div>
-
-    <div style="text-align:center; margin-top:10px;">
-      <button id="btnCopiarPix" onclick="copiarPix()" disabled>
-        📋 Copiar código PIX
-      </button>
-    </div>
-
-    <p id="msgCopiado"
-      style="text-align:center;margin-top:8px;color:green;font-weight:600;display:none;">
-      ✅ Código PIX copiado!
+    <p>
+      <strong>Chave PIX:</strong>
+      <span data-config="pix.chave"></span>
     </p>
 
-    <p style="font-size:13px; text-align:center; color:#555;">
-      🔒 Confira no app do banco se o recebedor é
-      <strong data-config="pix.nome"></strong>.
+    <p>
+      <strong>Recebedor:</strong>
+      <span data-config="pix.nome"></span>
     </p>
 
-    <p style="font-style:italic; text-align:center;">
-      “Cada um contribua segundo propôs no coração.” – 2Co 9:7
+    <p style="font-size:14px;color:#666;margin-top:10px;">
+      Escaneie o QR Code ou copie o código PIX e digite o valor desejado no aplicativo do seu banco.
     </p>
+
+    <!-- BOTÃO ABRIR BANCO -->
+    <button onclick="abrirPix()"
+      style="
+        margin-top:14px;
+        background:#32BCAD;
+        border:none;
+        color:white;
+        padding:12px 18px;
+        border-radius:8px;
+        font-weight:700;
+        cursor:pointer;">
+      📲 Abrir direto no app do banco
+    </button>
+
   </div>
+
+
+  <!-- QR -->
+  <div style="display:flex; justify-content:center; margin-top:25px;">
+    <canvas id="qrcode"></canvas>
+  </div>
+
+
+  <!-- copiar -->
+  <div style="text-align:center; margin-top:10px;">
+    <button id="btnCopiarPix"
+            onclick="copiarPix()">
+      📋 Copiar código PIX
+    </button>
+  </div>
+
+
+  <p id="msgCopiado"
+     style="
+      text-align:center;
+      margin-top:8px;
+      color:green;
+      font-weight:600;
+      display:none;">
+    ✅ Código PIX copiado!
+  </p>
+
+
+  <p style="font-size:13px; text-align:center; color:#555;">
+    🔒 Confira no app do banco se o recebedor é
+    <strong data-config="pix.nome"></strong>.
+  </p>
+
+  <p style="font-style:italic; text-align:center;">
+    “Cada um contribua segundo propôs no coração.” – 2Co 9:7
+  </p>
+
+</div>
 
     <div class="card" id="local" style="text-align:center;">
     <h2>📍 Localização</h2>
@@ -401,4 +410,5 @@
 </footer>
 
 </body>
+
 </html>
