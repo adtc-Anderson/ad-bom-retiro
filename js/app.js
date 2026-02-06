@@ -42,33 +42,30 @@
 
 function gerarQrFixo() {
 
-  const payload = CONFIG.pix?.payload;
-  if (!payload) return;
+  const payload = CONFIG?.pix?.payload;
 
-  QRCode.toCanvas(
-    document.getElementById("qrcode"),
-    payload,
-    { width: 260 }
-  );
+  if (!payload){
+    console.error("PIX payload não encontrado no config.json");
+    return;
+  }
 
-  document.getElementById("qrWrapper").style.display = "flex";
+  const canvas = document.getElementById("qrcode");
+
+  if(!canvas){
+    console.error("Canvas do QR não encontrado no HTML");
+    return;
+  }
+
+  // limpa antes (evita bug em alguns browsers)
+  const ctx = canvas.getContext("2d");
+  ctx.clearRect(0,0,canvas.width,canvas.height);
+
+  QRCode.toCanvas(canvas, payload, {
+    width: 260,
+    margin: 2
+  });
+
 }
-
-function gerarQrEstatico(){
-
-  const payload = CONFIG.pix.payload;
-
-  QRCode.toCanvas(
-    document.getElementById("qrcode"),
-    payload,
-    {
-      width: 260
-    }
-  );
-
-}
-
-document.addEventListener("DOMContentLoaded", gerarQrEstatico);
 
 function copiarPix(){
 
@@ -97,27 +94,6 @@ function abrirPix(){
     aplicarConfig();
     gerarQrFixo();
     aplicarSEO();
-  }
-
-  function carregarMapa() {
-
-  const container = document.getElementById("mapaContainer");
-
-  const urlMapa = CONFIG.localizacao?.mapa_embed;
-
-  if (!urlMapa) {
-    mapaErro();
-    return;
-  }
-
-  container.innerHTML = `
-    <iframe
-      src="${urlMapa}"
-      style="width:100%;height:320px;border:0;"
-      loading="lazy"
-      allowfullscreen>
-    </iframe>
-  `;
   }
 
   function aplicarLogo() {
@@ -999,6 +975,7 @@ function abrirPix(){
     carregarMapa();
 
    });
+
 
 
 
