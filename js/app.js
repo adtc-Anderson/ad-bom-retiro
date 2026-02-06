@@ -67,12 +67,13 @@ function gerarQrFixo() {
 
 }
 
+
 function copiarPix() {
 
-  const payload = CONFIG?.pix?.payload;
+  const payload = CONFIG.pix?.payload;
 
-  if(!payload){
-    alert("PIX não configurado.");
+  if (!payload) {
+    alert("⚠️ PIX ainda não carregado.");
     return;
   }
 
@@ -85,24 +86,19 @@ function copiarPix() {
       msg.style.display = 'none';
     }, 2500);
 
-  }).catch(()=>{
-    alert("Erro ao copiar o PIX.");
   });
 
 }
 
+
 function abrirPix(){
 
-  const payload = CONFIG?.pix?.payload;
+  const payload = CONFIG.pix?.payload;
 
-  if(!payload){
-    alert("PIX não configurado.");
-    return;
-  }
+  if (!payload) return;
 
-  const encoded = encodeURIComponent(payload);
-
-  window.location.href = `https://pix.app/pay?payload=${encoded}`;
+  window.location.href =
+    `https://pix.bcb.gov.br/qr/${encodeURIComponent(payload)}`;
 
 }
 
@@ -588,34 +584,6 @@ function aplicarLogo() {
     // desabilita copiar
     document.getElementById('btnCopiarPix').disabled = true;
   }
-
-  function copiarPix() {
-
-    // 🔒 proteção: PIX ainda não gerado
-    if (!payloadPixGerado || payloadPixGerado.length < 20) {
-      alert('⚠️ Gere o QR Code com um valor válido antes de copiar.');
-      return;
-    }
-
-    // 🔒 proteção extra: valida valor novamente
-    const valorCampo = document.getElementById('valorPix').value;
-    const valorNum = parseFloat(valorCampo.replace(',', '.'));
-
-    if (!valorNum || valorNum < 1) {
-      alert('⚠️ Valor inválido para copiar o PIX.');
-      return;
-    }
-
-    navigator.clipboard.writeText(payloadPixGerado).then(() => {
-      const msg = document.getElementById('msgCopiado');
-      msg.style.display = 'block';
-
-      setTimeout(() => {
-        msg.style.display = 'none';
-      }, 2500);
-    });
-  }
-
   /* =========================
     AGENDA DE CULTOS
   ========================= */
@@ -993,6 +961,7 @@ function aplicarLogo() {
     carregarMapa();
 
    });
+
 
 
 
