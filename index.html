@@ -265,15 +265,13 @@
 
     <div class="card pix-card" id="pix">
 
-  <h2 class="pix-title">
-    💳 Dízimos & Ofertas (PIX)
-  </h2>
+  <h2 class="pix-title">💳 Dízimos & Ofertas (PIX)</h2>
 
   <div class="pix-info">
 
     <p class="pix-chave">
       <span>Chave PIX</span><br>
-      <strong data-config="pix.chave"></strong>
+      <strong data-config="pix.chave" data-format="pix"></strong>
     </p>
 
     <p class="pix-recebedor">
@@ -287,36 +285,28 @@
 
   </div>
 
-
-  <!-- QR CODE -->
-  <div class="qr-wrapper">
+  <div class="qr-wrapper" style="display:flex;justify-content:center;margin-top:18px;">
     <canvas id="qrcode"></canvas>
   </div>
 
-
-  <!-- BOTÕES -->
   <div class="pix-botoes">
 
-    <button class="btn-pix abrir"
-      onclick="abrirPix()">
+    <button class="btn-pix abrir" onclick="abrirPix()">
       📲 Abrir no app do banco
     </button>
 
-    <button class="btn-pix copiar"
-      onclick="copiarPix()">
+    <button class="btn-pix copiar" onclick="copiarPix()">
       📋 Copiar código PIX
     </button>
 
   </div>
 
-
-  <p id="msgCopiado" class="pix-copiado">
+  <p id="msgCopiado" class="pix-copiado" style="display:none;">
     ✅ Código PIX copiado!
   </p>
 
-
   <p class="pix-seguranca">
-    🔒 Confira no app do banco se o recebedor é  
+    🔒 Confira no app do banco se o recebedor é
     <strong data-config="pix.nome"></strong>
   </p>
 
@@ -401,4 +391,5 @@
 </body>
 
 </html>
+
 
