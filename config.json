@@ -1,0 +1,55 @@
+{
+  "igreja": {
+    "nome": "ADTC Bom Retiro",
+    "subtitulo": "IEADTC - INDUSTRIAL",
+    "presidente": "Pr. João Lourenço da Silva",
+    "lider_local": "Presb. Gilvan F. de Medeiros"
+  },
+
+  "pix": {
+    "chave": "+5585986498687",
+    "nome": "Giselle Farias Medeiros",
+    "cidade": "Fortaleza"
+  },
+
+  "app": {
+    "nome_completo": "ADTC Bom Retiro – Assembleia de Deus",
+    "versao": "1.0.8"
+  },
+
+  "tema": {
+  "cor_primaria": "#0b3c5d", 
+  "cor_secundaria": "#1c6ea4",
+  "cor_destaque": "#c9a24d",  
+  "cor_fundo": "#f4f6f8",
+  "cor_texto": "#333333"
+  },
+
+  "site": {
+    "url": "https://adtc-anderson.github.io/ad-bom-retiro",
+    "imagem": "img/icon-512.png"
+  },
+
+  "branding": {
+  "favicon": "img/icon-192.png",
+  "logo": "img/logoA.png",
+  "logo_alt": "ADTC Bom Retiro"
+  },
+
+  "contato": {
+  "whatsapp": "85986498687",
+  "mensagem": "Olá! Vim pelo site da igreja."
+  },
+
+  "localizacao": {
+  "mapa_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3980.7212173127655!2d-38.55710292415437!3d-3.8698593439099076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c7517232d23c47%3A0x6c973756dbaefd97!2sADTC%20Bom%20Retiro!5e0!3m2!1spt-BR!2sbr"
+ },
+
+  "sede": {
+  "nome": "AD Industrial",
+  "url": "https://adindustrial.com.br",
+  "logo": "https://adindustrial.com.br/wp-content/uploads/2024/12/logo-cor.png.webp"
+}
+
+
+}
