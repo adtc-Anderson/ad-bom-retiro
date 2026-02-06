@@ -60,10 +60,11 @@ function gerarQrFixo() {
   const ctx = canvas.getContext("2d");
   ctx.clearRect(0,0,canvas.width,canvas.height);
 
-  QRCode.toCanvas(canvas, payload, {
-    width: 260,
-    margin: 2
-  });
+  QRCode.toCanvas(
+  document.getElementById("qrcode"),
+  CONFIG.pix.payload,
+  { width: 260 }
+  );
 
 }
 
@@ -961,6 +962,7 @@ function aplicarLogo() {
     carregarMapa();
 
    });
+
 
 
 
