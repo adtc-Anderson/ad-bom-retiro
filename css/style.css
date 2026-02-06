@@ -870,7 +870,6 @@ footer {
   font-size:16px;
   cursor:pointer;
   transition:.25s;
-  width:85%;
   max-width:340px;
 }
 
@@ -920,6 +919,29 @@ footer {
   margin-top:10px;
 }
 
+.qr-wrapper{
+    display:flex;
+    justify-content:center;
+}
+
+/* controla o tamanho REAL do QR */
+.qr-wrapper canvas{
+    width:260px !important;
+    height:260px !important;
+}
+
+/* centraliza os botões */
+.pix-botoes{
+    display:flex;
+    justify-content:center;
+}
+
+/* largura idêntica ao QR */
+.btn-pix{
+    width:260px;
+    max-width:90%;
+}
+
 /* ===== AGENDA MENSAL – AJUSTE MOBILE ===== */
 @media (max-width: 480px) {
 
@@ -945,6 +967,7 @@ footer {
     min-height: 62px;       /* um pouco maior que o normal */
   }
 }
+
 
 
 
