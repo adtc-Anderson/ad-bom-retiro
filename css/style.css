@@ -941,6 +941,43 @@ footer {
     width:260px;
     max-width:90%;
 }
+/* container que manda em tudo */
+.pix-centro{
+  width: 260px;        /* mesma medida do QR */
+  max-width: 90%;
+  margin: 0 auto;      /* centraliza */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* centraliza conteúdo */
+  gap: 12px;
+}
+
+/* wrapper do QR */
+.qr-wrapper{
+  width: 100%;
+  display:flex;
+  justify-content:center;
+  background:#fff;
+  border-radius: 16px;
+  padding: 12px;
+  box-sizing: border-box;
+}
+
+/* força o canvas a ocupar o bloco */
+.qr-wrapper canvas{
+  width: 100% !important;
+  height: auto !important;
+  display:block;
+}
+
+/* botão com mesma largura do QR */
+.btn-pix{
+  width: 100%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap: 10px;
+}
 
 /* ===== AGENDA MENSAL – AJUSTE MOBILE ===== */
 @media (max-width: 480px) {
@@ -967,6 +1004,7 @@ footer {
     min-height: 62px;       /* um pouco maior que o normal */
   }
 }
+
 
 
 
