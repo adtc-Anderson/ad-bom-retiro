@@ -40,6 +40,43 @@
     }
   }
 
+  function gerarQrEstatico(){
+
+  const payload = CONFIG.pix.payload;
+
+  QRCode.toCanvas(
+    document.getElementById("qrcode"),
+    payload,
+    {
+      width: 260
+    }
+  );
+
+}
+
+document.addEventListener("DOMContentLoaded", gerarQrEstatico);
+
+function copiarPix(){
+
+  navigator.clipboard.writeText(CONFIG.pix.payload);
+
+  const msg = document.getElementById("msgCopiado");
+  msg.style.display = "block";
+
+  setTimeout(()=>{
+    msg.style.display = "none";
+  },2000);
+
+}
+
+function abrirPix(){
+
+  const payload = encodeURIComponent(CONFIG.pix.payload);
+
+  window.location.href = `pix://pay?payload=${payload}`;
+
+}
+
   function iniciarSite() {
     aplicarBranding(); // cores primeiro
     aplicarLogo();
@@ -947,5 +984,6 @@
     carregarMapa();
 
    });
+
 
 
