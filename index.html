@@ -284,17 +284,20 @@
     </p>
 
   </div>
+      
+<!-- BLOCO CENTRAL (QR + BOTÕES) -->
+<div class="pix-centro">
 
-  <div class="pix-box">
-   <div class="qr-wrapper">
-      <canvas id="qrcode"></canvas>
-   </div>
+  <div class="qr-wrapper">
+    <canvas id="qrcode"></canvas>
+  </div>
 
-   <div class="pix-botoes">
-      <button class="btn-pix copiar">📋 Copiar código PIX</button>
-   </div>
-   </div>
+  <button class="btn-pix copiar" onclick="copiarPix()">
+    📋 Copiar código PIX
+  </button>
 
+</div>
+      
   <p id="msgCopiado" class="pix-copiado" style="display:none;">
     ✅ Código PIX copiado!
   </p>
@@ -385,6 +388,7 @@
 </body>
 
 </html>
+
 
 
 
